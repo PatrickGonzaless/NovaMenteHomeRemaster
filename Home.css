@@ -403,6 +403,7 @@ header{
     color: #616161;
     padding-top: 3vh;
     margin: auto;
+    text-align:center;
 }
 
 .titulo_segunda_imagem{
@@ -420,6 +421,7 @@ header{
     color: #616161;
     padding-top: 3vh;
     margin: auto;
+    text-align:center;
 }
 
 .titulo_terceira_imagem{
@@ -437,6 +439,7 @@ header{
     color: #616161;
     padding-top: 1.3vh;
     margin: auto;
+    text-align:center;
 }
 
 /* Três Roxos */
@@ -447,16 +450,6 @@ header{
     height: 90vh;
     margin: 20vh auto 0 auto;
 }
-
-/* .espaco_roxo1{
-    width: 23vw;
-    height: 25vh;
-    margin: auto;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    background-color: red;
-} */
 
 .roxo1{
     position: absolute;
@@ -3589,6 +3582,3 @@ header{
     }
 
   }
-
-  
-
