@@ -2338,19 +2338,19 @@ header{
     }
 
     .conteudo_informacoes1{
-        width: 50vw;
+        width: 75vw;
         height: auto;
         margin: 8vh auto;
     }
 
     .titulo_informacoes1{
-        width: 50vw;
+        width: 77vw;
         text-align: center;
     }
 
     .texto_informacoes1{
         margin: auto;
-        width: 54vw;
+        width: 65vw;
         text-align:center;
     }
 
@@ -2370,7 +2370,7 @@ header{
     }
 
     .conteudo_informacoes2{
-        width: 50vw;
+        width: 70vw;
         height: auto;
         margin: auto;
     }
@@ -2388,14 +2388,14 @@ header{
     }
 
     .titulo_informacoes2-fake{
-        width: 50vw;
+        width: 62vw;
         text-align: center;
         margin: 5vh auto 0 auto;
     }
 
     .texto_informacoes2-fake{
         margin: auto;
-        width: 48vw;
+        width: 66vw;
         text-align: center;
     }
 
@@ -2418,7 +2418,7 @@ header{
     }
 
     .conteudo_informacoes3{
-        width: 67vw;
+        width: 68vw;
         height: auto;
         margin: auto;
     }
@@ -2431,7 +2431,7 @@ header{
 
     .texto_informacoes3{
         margin: auto;
-        width: 51vw;
+        width: 72vw;
         text-align:center;
     }
 
