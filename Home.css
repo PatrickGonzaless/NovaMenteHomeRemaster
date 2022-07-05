@@ -1182,6 +1182,7 @@ header{
 
     #acessibilidade{
         width: 10.5%;
+        top:36vh;
     }
 
     #acessibilidade img{
@@ -1669,6 +1670,7 @@ header{
 
     #acessibilidade{
         width: 14%;
+        top:35vh;
     }
 
     #acessibilidade img{
@@ -3543,6 +3545,7 @@ header{
     #acessibilidade{
         width: 6%;
         height: 6vw;
+        top:36vh;
     }
 
     #acessibilidade img{
