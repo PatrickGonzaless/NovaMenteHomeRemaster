@@ -92,10 +92,10 @@ function darkmode(){
     document.querySelector("body").style.backgroundImage="url(Imagens/background-darkhome.png)";
     document.querySelector(".acess1").src="Imagens/imgacessibilidadedark1.png";
     document.querySelector(".acess1-fake").style.visibility="visible";
-    document.querySelector(".nav_responsiva").style.backgroundColor="#737373";
-    document.querySelector(".line1").style.backgroundColor="#FFF";
-    document.querySelector(".line2").style.backgroundColor="#FFF";
-    document.querySelector(".line3").style.backgroundColor="#FFF";
+    document.querySelector(".nav_responsiva").style.backgroundColor="#FFF";
+    document.querySelector(".line1").style.backgroundColor="#ADADAD";
+    document.querySelector(".line2").style.backgroundColor="#ADADAD";
+    document.querySelector(".line3").style.backgroundColor="#ADADAD";
     document.querySelector(".novamente").style.color="#FFF";
     document.querySelector(".mente_roxo").style.color="#FFF";
     document.querySelector(".a_quemsomos_login1").style.color="#FFF";
