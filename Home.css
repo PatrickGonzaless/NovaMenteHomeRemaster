@@ -1160,12 +1160,12 @@ header{
 
     .titulo_cadastre-se{
         margin: 5vh auto 0 auto;
-        width: 37vw;
+        width: 50vw;
     }
 
     .texto_cadastre-se{
         margin: 2vh auto 0 auto;
-        width: 36%;
+        width: 60vw;
         text-align: center;
     }
 
@@ -2150,13 +2150,13 @@ header{
 
     .titulo_cadastre-se{
         margin: 5vh auto 0 auto;
-        width: 37vw;
+        width: 60vw;
         font-size: 25px;
     }
 
     .texto_cadastre-se{
         margin: 2vh auto 0 auto;
-        width: 36%;
+        width: 76vw;
         text-align: center;
     }
 
@@ -2357,7 +2357,7 @@ header{
     .informacoes2{
         display: flex;
         flex-direction: column;
-        height: 97vh;
+        height: 96vh;
         width: 100%;
         display: none;
     }
@@ -2414,7 +2414,7 @@ header{
 
     .informacoes3{
         margin: 15vh auto 0 auto;
-        height: 76vh;
+        height: 62vh;
     }
 
     .conteudo_informacoes3{
